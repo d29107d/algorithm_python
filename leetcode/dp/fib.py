@@ -7,6 +7,7 @@ class Solution:
 
         return table[n]
 
+
 s = Solution()
 print(s.fib(6))
 print(s.fib(7))
